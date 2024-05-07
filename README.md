@@ -6,7 +6,7 @@
 
 # training report
 ![img](image.png)
-[detail is here](https://wandb.ai/seo-ma/huggingface/reports/KorQuAD2-0-dev-training-Report--Vmlldzo3ODM3Njk4)
+[detail is here](https://api.wandb.ai/links/seo-ma/iq4tjyc9)
 
 ---
 tags:
