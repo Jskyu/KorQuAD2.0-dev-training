@@ -1,0 +1,31 @@
+
+[1mINFO    [22m | [32m2024-05-02 10:24:49[39m | [36mautotrain.trainers.common[39m:[36mon_train_begin[39m:[36m231[39m - [1mStarting to train...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  0%|                                     | 25/23260 [04:34<70:51:25, 10.98s/it]
+[1mINFO    [22m | [32m2024-05-02 10:29:23[39m | [36mautotrain.trainers.common[39m:[36mon_log[39m:[36m226[39m - [1m{'loss': 1.6612, 'grad_norm': 0.5512454509735107, 'learning_rate': 2.1496130696474635e-06, 'epoch': 0.021496130696474634}
+
+

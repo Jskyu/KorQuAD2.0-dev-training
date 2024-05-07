@@ -1,0 +1,204 @@
+{
+    "os": "Linux-6.5.0-27-generic-x86_64-with-glibc2.35",
+    "python": "3.12.3",
+    "heartbeatAt": "2024-05-02T01:45:47.028917",
+    "startedAt": "2024-05-02T01:45:46.317563",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--training_config",
+        "Llama2-KorQuAD2-dev-finetuning/training_params.json"
+    ],
+    "state": "running",
+    "program": "-m autotrain.trainers.clm.__main__",
+    "codePathLocal": null,
+    "host": "r2soft-Default-string",
+    "username": "r2soft",
+    "executable": "/home/r2soft/anaconda3/envs/jsk_KorQuAD/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 1.6244375000000004,
+        "min": 1200.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1.77,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2.1,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.223,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.891,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2.294,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2.294,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2.295,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.197,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.696,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2.294,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2.1,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.344,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1.2,
+            "min": 1200.0,
+            "max": 3600.0
+        },
+        {
+            "current": 2.295,
+            "min": 1200.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 108.98257827758789,
+            "used": 77.83028793334961
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1080 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1080 Ti",
+            "memory_total": 11811160064
+        }
+    ],
+    "memory": {
+        "total": 62.62651824951172
+    }
+}
