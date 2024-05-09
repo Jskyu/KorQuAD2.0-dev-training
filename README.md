@@ -6,7 +6,7 @@
 
 # training report
 ![img](image.png)
-[detail is here](https://api.wandb.ai/links/seo-ma/iq4tjyc9)
+[detail is here](https://api.wandb.ai/links/seo-ma/e34sgho2)
 
 ---
 tags:
