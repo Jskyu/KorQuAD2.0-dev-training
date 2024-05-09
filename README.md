@@ -1,4 +1,4 @@
-﻿# my-first-ai
+﻿# KorQuAD2.0-dev-training
 
 # hugging-face
  - dataset: `https://huggingface.co/datasets/seoma/korquad2-dev`
@@ -53,6 +53,9 @@ response = tokenizer.decode(output_ids[0][input_ids.shape[1]:], skip_special_tok
 # Model response: "Hello! How can I assist you today?"
 print(response)
 ```
+
+# Evaluate
+see [here](evaluate.ipynb)
 
 ### License
 `KorQuad 2.0` [CC BY-ND 2.0 KR](https://creativecommons.org/licenses/by-nd/2.0/kr/)
